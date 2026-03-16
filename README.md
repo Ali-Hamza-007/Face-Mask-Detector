@@ -50,34 +50,6 @@ The use of **transfer learning** significantly improved accuracy while reducing 
 
 ---
 
-## ▶️ Run Real-Time Detection
-
-```bash
-python detect_mask_video.py
-```
-
-Your webcam will start and the system will **detect masks in real-time**.
-
----
-
-## 🧪 Training the Model
-
-To train the model from scratch:
-
-```bash
-python train_mask_detector.py
-```
-
-
-
----
-
-## 📸 Example Output
-
-- Green Box → **Mask Detected**
-- Red Box → **No Mask Detected**
-
----
 
 ## 🎯 Applications
 
